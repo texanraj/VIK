@@ -67,17 +67,20 @@ const Contact = () => {
     {
       name: 'Headquarters',
       address: '7777 Southwest Freeway, Suite 500',
-      city: 'Houston, TX 77002'
+      city: 'Houston, TX 77002',
+      phone: '281-201-6635',
     },
     {
       name: 'West Coast Office',
       address: '1117 Phyllis Dr',
-      city: 'Mountain View, CA 94040'
+      city: 'Mountain View, CA 94040',
+      phone: '541-557-0123',
     },
     {
       name: 'Chennai Office',
-      address: '40 Akbar St.',
-      city: 'Chennai, TN 600004'
+      address: '163 Waterfront St.',
+      city: 'Chennai, TN 600004',
+      phone: '301-625-0456',
     },
   ];
 
