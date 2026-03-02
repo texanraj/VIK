@@ -60,6 +60,8 @@ const Contact = () => {
     'The VIK Accelerator',
     'Data & Analytics',
     'Cloud Migration',
+    'Database Modernization',
+    'Storage Solutions',
     'Other',
   ];
 
