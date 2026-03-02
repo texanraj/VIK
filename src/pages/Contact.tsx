@@ -66,21 +66,18 @@ const Contact = () => {
   const locations = [
     {
       name: 'Headquarters',
-      address: '111 Town Square Place',
-      city: 'Jersey City, NJ 07310',
-      phone: '800-991-3011',
+      address: '7777 Southwest Freeway, Suite 500',
+      city: 'Houston, TX 77002'
     },
     {
       name: 'West Coast Office',
-      address: '320 SW Upper Terrace Dr.',
-      city: 'Bend, OR 97702',
-      phone: '541-555-0123',
+      address: '1117 Phyllis Dr',
+      city: 'Mountain View, CA 94040'
     },
     {
-      name: 'DC Metro Office',
-      address: '163 Waterfront St.',
-      city: 'National Harbor, MD 20745',
-      phone: '301-555-0456',
+      name: 'Chennai Office',
+      address: '40 Akbar St.',
+      city: 'Chennai, TN 600004'
     },
   ];
 
@@ -368,7 +365,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-slate-400 text-sm">Phone</p>
-                      <a href="tel:800-991-3011" className="text-white hover:text-teal-400 transition-colors">
+                      <a href="tel:281-201-6635" className="text-white hover:text-teal-400 transition-colors">
                         800-991-3011
                       </a>
                     </div>
@@ -379,7 +376,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-slate-400 text-sm">Email</p>
-                      <a href="mailto:info@vikconsulting.com" className="text-white hover:text-teal-400 transition-colors">
+                      <a href="mailto:sanstorage@gmail.com" className="text-white hover:text-teal-400 transition-colors">
                         info@vikconsulting.com
                       </a>
                     </div>
@@ -428,7 +425,7 @@ const Contact = () => {
                   Passionate about AI and cloud innovation? We are always looking for talented individuals to join our growing team.
                 </p>
                 <a
-                  href="mailto:careers@vikconsulting.com"
+                  href="mailto:sanstorage@gmail.com"
                   className="inline-flex items-center gap-2 text-teal-400 hover:text-teal-300 font-semibold transition-colors"
                 >
                   View Open Positions
